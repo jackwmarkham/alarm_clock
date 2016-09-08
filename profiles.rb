@@ -1,0 +1,7 @@
+$a0 = Alarm.new(0, "Sunday", "0730", true, 1, 1)
+$a1 = Alarm.new(1, "Monday", "1737", true, 1, 1)
+$a2 = Alarm.new(2, "Tuesday", "2039", true, 1, 1)
+$a3 = Alarm.new(3, "Wednesday", "0730", false, 1, 1)
+$a4 = Alarm.new(4, "Thursday", "0730", false, 1, 1)
+$a5 = Alarm.new(5, "Friday", "1500", false, 1, 1)
+$a6 = Alarm.new(6, "Saturday", "0730", true, 1, 1)
